@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "*.tpp": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp"
+    },
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "FirstMySQLConnection",
+            "database": "testschema",
+            "username": "tutoruser",
+            "password": "abcde"
+        }
+    ]
+}

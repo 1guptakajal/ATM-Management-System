@@ -1,6 +1,6 @@
 #include<iostream>
 #include<fstream>
-#include<iomanip>
+//#include<iomanip>
 using namespace std;
 
 // the class that stores data
@@ -62,7 +62,7 @@ void delete_student(int);//delete particular record
 void change_student(int);//edit particular record
 int main(){
     char ch;
-    cout<<setprecision(2);
+    //cout<<setprecision(2);
     do
     {
       char ch;
